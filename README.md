@@ -3,6 +3,9 @@ Machine Learning work experience
 
 Jorge Damian Diaz Gomez
 
+LINKEDIN:
+https://www.linkedin.com/in/jorge-damian-diaz-2ba5031a1/
+
 This is my experience with machine learning.
 
 My projects and work done can be found in the following links:
