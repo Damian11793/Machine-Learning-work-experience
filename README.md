@@ -1,17 +1,19 @@
 # Machine-Learning-work-experience
 Machine Learning work experience
 
-
 Jorge Damian Diaz Gomez
 This is my experience with machine learning. My projects and work done can be found in the following links:
 
 Linear Regression
+
 https://computacion.cs.cinvestav.mx/~jorge.diaz/Tareas/AprendizajeAutomatico/Tarea1.html
 
 K-Nearest Neighbors
+
 https://computacion.cs.cinvestav.mx/~jorge.diaz/Tareas/AprendizajeAutomatico/Tarea2.html
 
 Logistic Regression
+
 https://computacion.cs.cinvestav.mx/~jorge.diaz/Tareas/AprendizajeAutomatico/Tarea3.html
 
 Principal Component Analysis
