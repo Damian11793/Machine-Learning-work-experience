@@ -1,5 +1,5 @@
 # Machine-Learning-work-experience
-Machine Learning work experience
+Machine Learning work experience and Projects
 
 Jorge Damian Diaz Gomez
 
